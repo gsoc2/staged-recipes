@@ -1,0 +1,8 @@
+go_compiler:
+  - go-nocgo
+cgo_compiler:
+  - go-cgo
+channel_sources:
+  - gsoc2
+target_platform:
+  - win-64
